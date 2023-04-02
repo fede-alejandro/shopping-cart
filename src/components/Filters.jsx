@@ -30,7 +30,7 @@ export function Filters() {
                     type='range'
                     id={minPriceFilterId}
                     min='0'
-                    max='1000'
+                    max='7'
                     onChange={handleChangeMinPrice}
                     value={filters.minPrice}
                 />
@@ -40,8 +40,8 @@ export function Filters() {
                 <label htmlFor={categoryFilterId}>Categoria</label>
                 <select id={categoryFilterId} onChange={handleChangeCategory}>
                     <option value='all'>Todas</option>
-                    <option value='laptops'>Portatiles</option>
-                    <option value='smartphones'>Celulares</option>
+                    <option value='fruta'>Fruta</option>
+                    <option value='verdura'>Verdura</option>
                 </select>
             </div>
         </section>

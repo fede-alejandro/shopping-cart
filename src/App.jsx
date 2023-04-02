@@ -6,6 +6,8 @@ import { Cart } from './components/Cart'
 import { CartProvider } from './context/cart'
 
 
+
+
 function App() {
   const { filterProducts } = useFilters()
 
@@ -16,6 +18,7 @@ function App() {
       <Header  />
       <Cart />
       <Products products={filteredProducts} />
+     
       
     </CartProvider>
   )

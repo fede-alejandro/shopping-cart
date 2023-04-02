@@ -3,6 +3,7 @@ import { AddToCartIcon, RemoveFromCartIcon } from './Icons.jsx'
 import { useCart } from '../hooks/useCart.js'
 
 
+
 export function Products({ products }) {
     const { addToCart, removeFromCart, cart } = useCart()
 
@@ -13,7 +14,7 @@ export function Products({ products }) {
     return (
         <main className='products'>
             <ul>
-                {products.slice(0, 10).map(product => {
+                {products.slice(0, 21).map(product => {
                     const isProductInCart = checkProductInCart(product)
 
                     return (
@@ -24,7 +25,10 @@ export function Products({ products }) {
                                 <strong>{product.title}</strong> - ${product.price}
                             </div>
                             <div>
-                                <button style={{ backgroundColor: isProductInCart ? 'red' : '#09f' }}
+                                <small>{product.description}</small>
+                            </div>
+                            <div>
+                                <button style={{ backgroundColor: isProductInCart ? 'green' : 'white' }}
                                     onClick={() =>
                                         isProductInCart
                                             ? removeFromCart(product)
