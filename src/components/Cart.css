@@ -26,12 +26,13 @@
   }
   
   .cart footer button {
-    padding: 8px;
+    padding: 4px;
   }
   
   .cart-button {
     align-items: center;
     background: rgb(14, 132, 55);
+    color: white;
     border-radius: 9999px;
     cursor: pointer;
     display: flex;

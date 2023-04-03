@@ -4,13 +4,9 @@ import { useId } from 'react'
 import { CartIcon, ClearCartIcon } from './Icons.jsx'
 import { useCart } from '../hooks/useCart.js'
 
-function CartItem({ thumbnail, price, title, quantity, addToCart }) {
+function CartItem({ price, title, quantity, addToCart }) {
     return (
         <li>
-            <img
-                src={thumbnail}
-                alt={title}
-            />
             <div>
                 <strong>{title}</strong> - ${price}
             </div>

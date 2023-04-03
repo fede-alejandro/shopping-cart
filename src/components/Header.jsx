@@ -1,12 +1,8 @@
-import { Filters } from './Filters.jsx'
-// import './NavMenu.css'
-
 
 export function Header() {
 
-    return (
-        <header>
-            <Filters />
-        </header>
+    return (<header>
+   <h1>Mercado orgánico</h1>
+    </header>
     )
 }

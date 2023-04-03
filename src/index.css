@@ -15,11 +15,19 @@
 }
 
 #root {
-  max-width: 600px;
+  max-width: 800px;
   margin: 0 auto;
-  padding: 2rem;
   text-align: center;
   width: 100%;
+}
+
+header {
+  width: 100%;
+  min-height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem 2rem;
 }
 
 body {
@@ -33,14 +41,15 @@ body {
 button {
   border-radius: 8px;
   border: 1px solid transparent;
-  padding: 0.6em 1.2em;
+  padding: 0.6em 1em;
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #f5b030;
+  background-color: #fca540;
   cursor: pointer;
   transition: border-color 0.25s;
 }
+
 button:hover {
   border-color: #fdfdfd;
 }
