@@ -10,7 +10,7 @@
         "stock":54,
         "brand":"Golden",
         "category":"fruta",
-        "thumbnail":"./src/img/fruta/anana.jpg"
+        "image":"./src/img/fruta/anana.jpg"
      },
      {
         "id":6,
@@ -22,7 +22,7 @@
         "stock":83,
         "brand":"Canarias",
         "category":"fruta",
-        "thumbnail":"./src/img/fruta/banana.jpg"
+        "image":"./src/img/fruta/banana.jpg"
      },
      {
         "id":2,
@@ -34,7 +34,7 @@
         "stock":34,
         "brand":"Sabrocitos",
         "category":"fruta",
-        "thumbnail":"./src/img/fruta/cereza.jpg"
+        "image":"./src/img/fruta/cereza.jpg"
      },
      {
         "id":3,
@@ -46,7 +46,7 @@
         "stock":36,
         "brand":"Habana",
         "category":"fruta",
-        "thumbnail":"./src/img/fruta/coco.jpg"
+        "image":"./src/img/fruta/coco.jpg"
      },
      {
         "id":4,
@@ -58,7 +58,7 @@
         "stock":123,
         "brand":"Valenciaga",
         "category":"fruta",
-        "thumbnail":"./src/img/fruta/nectarina.jpg"
+        "image":"./src/img/fruta/nectarina.jpg"
      },
      {
         "id":5,
@@ -70,7 +70,7 @@
         "stock":32,
         "brand":"Pelosa",
         "category":"fruta",
-        "thumbnail":"./src/img/fruta/durazno.jpg"
+        "image":"./src/img/fruta/durazno.jpg"
      },
      {
         "id":7,
@@ -82,7 +82,7 @@
         "stock":50,
         "brand":"Huelva",
         "category":"fruta",
-        "thumbnail":"./src/img/fruta/frutilla.jpg"
+        "image":"./src/img/fruta/frutilla.jpg"
      },
      {
         "id":1,
@@ -94,7 +94,7 @@
         "stock":94,
         "brand":"Valenciaga",
         "category":"fruta",
-        "thumbnail":"./src/img/fruta/granada.jpg"
+        "image":"./src/img/fruta/granada.jpg"
      },
      {
         "id":8,
@@ -106,7 +106,7 @@
         "stock":68,
         "brand":"Golden",
         "category":"fruta",
-        "thumbnail":"./src/img/fruta/kiwi.jpg"
+        "image":"./src/img/fruta/kiwi.jpg"
      },
      {
         "id":9,
@@ -118,7 +118,7 @@
         "stock":96,
         "brand":"Clementina",
         "category":"fruta",
-        "thumbnail":"./src/img/fruta/mandarina.jpg"
+        "image":"./src/img/fruta/mandarina.jpg"
      },
      {
         "id":10,
@@ -130,7 +130,7 @@
         "stock":89,
         "brand":"Golden",
         "category":"fruta",
-        "thumbnail":"./src/img/fruta/manzana.jpg"
+        "image":"./src/img/fruta/manzana.jpg"
      },
      {
         "id":11,
@@ -142,7 +142,7 @@
         "stock":65,
         "brand":"Pelosa",
         "category":"fruta",
-        "thumbnail":"./src/img/fruta/papaya.jpg"
+        "image":"./src/img/fruta/papaya.jpg"
      },
      {
         "id":12,
@@ -154,7 +154,7 @@
         "stock":52,
         "brand":"Royal",
         "category":"fruta",
-        "thumbnail":"./src/img/fruta/pomelo.jpg"
+        "image":"./src/img/fruta/pomelo.jpg"
      },
      {
         "id":13,
@@ -166,7 +166,7 @@
         "stock":61,
         "brand":"Royal",
         "category":"fruta",
-        "thumbnail":"./src/img/fruta/uvas.jpg"
+        "image":"./src/img/fruta/uvas.jpg"
      },
      {
         "id":14,
@@ -178,7 +178,7 @@
         "stock":114,
         "brand":"Boliland",
         "category":"verdura",
-        "thumbnail":"./src/img/verdura/berenjena.jpg"
+        "image":"./src/img/verdura/berenjena.jpg"
      },
      {
         "id":15,
@@ -190,7 +190,7 @@
         "stock":105,
         "brand":"Lord",
         "category":"verdura",
-        "thumbnail":"./src/img/verdura/esparragos.jpg"
+        "image":"./src/img/verdura/esparragos.jpg"
      },
      {
         "id":16,
@@ -202,7 +202,7 @@
         "stock":110,
         "brand":"Royal",
         "category":"verdura",
-        "thumbnail":"./src/img/verdura/hongos.jpg"
+        "image":"./src/img/verdura/hongos.jpg"
      },
      {
         "id":17,
@@ -214,7 +214,7 @@
         "stock":78,
         "brand":"Hemani",
         "category":"verdurae",
-        "thumbnail":"./src/img/verdura/palta.jpg"
+        "image":"./src/img/verdura/palta.jpg"
      },
      {
         "id":18,
@@ -226,7 +226,7 @@
         "stock":88,
         "brand":"Boliland",
         "category":"verdura",
-        "thumbnail":"./src/img/verdura/repollo.jpg"
+        "image":"./src/img/verdura/repollo.jpg"
      },
      {
         "id":19,
@@ -238,7 +238,7 @@
         "stock":54,
         "brand":"Boliland",
         "category":"verdura",
-        "thumbnail":"./src/img/verdura/zanahoria.jpg"
+        "image":"./src/img/verdura/zanahoria.jpg"
      },
      {
         "id":20,
@@ -250,7 +250,7 @@
         "stock":140,
         "brand":"Fair & Clear",
         "category":"verdura",
-        "thumbnail":"./src/img/verdura/calabaza.jpg"
+        "image":"./src/img/verdura/calabaza.jpg"
      }
   ],
   "total":100,
